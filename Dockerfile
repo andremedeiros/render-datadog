@@ -1,0 +1,1 @@
+FROM datadog/dogstatsd:7.29.1
